@@ -1,0 +1,3 @@
+I want to create a python script using cognitive services and an azure storage account to classify marbles in a container. I need 3 categories: - fully covered marble(looks the same color as the background) - one third covered marble - not covered at all marble(it will look like a darker ball) I want to get the python code
+
+I want to create a python script using cognitive services and an azure storage account to check an image and get how many marbles are there in that image. The background is light and the marbles are dark.
